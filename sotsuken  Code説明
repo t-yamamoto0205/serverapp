@@ -1,5 +1,5 @@
 ### 1. 基本構造
-- `<!DOCTYPE html>`: HTML5を宣言。
+- `<!DOCTYPE html>`: HTMLを宣言。
 - `<html lang="ja">`: ページの言語が日本語であることを指定。
 - `<head>`タグ内: ページのメタ情報やスタイル、スクリプトが含まれます。
 - `<meta charset="UTF-8">`: 文字コードをUTF-8に設定。
